@@ -1,1 +1,1 @@
-Presentation website for an Chemistry-Informatics Competition
+Presentation website for a Chemistry-Informatics Competition

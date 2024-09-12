@@ -1,1 +1,1 @@
-Presentation website for a Chemistry-Informatics Competition
+Standard html, css and javascript website
